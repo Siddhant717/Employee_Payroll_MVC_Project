@@ -1,0 +1,202 @@
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.exe
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.deps.json
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.runtimeconfig.json
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.runtimeconfig.dev.json
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.dll
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.pdb
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.Views.dll
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.Views.pdb
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.csproj.AssemblyReference.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.AssemblyInfoInputs.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.AssemblyInfo.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.csproj.CoreCompileInputs.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.MvcApplicationPartsAssemblyInfo.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorAssemblyInfo.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorAssemblyInfo.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\staticwebassets\EmployeePayRoll.StaticWebAssets.Manifest.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.TagHelpers.input.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.TagHelpers.output.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorCoreGenerate.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorTargetAssemblyInfo.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorTargetAssemblyInfo.cs
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.Views.pdb
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.dll
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.pdb
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.genruntimeconfig.cache
+D:\CFPBatch\New folder\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.csproj.CopyComplete
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.exe
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.deps.json
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.runtimeconfig.json
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.runtimeconfig.dev.json
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.pdb
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.Views.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\EmployeePayRoll.Views.pdb
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.csproj.AssemblyReference.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.AssemblyInfoInputs.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.AssemblyInfo.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.csproj.CoreCompileInputs.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.MvcApplicationPartsAssemblyInfo.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorAssemblyInfo.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorAssemblyInfo.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\staticwebassets\EmployeePayRoll.StaticWebAssets.Manifest.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.TagHelpers.input.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.TagHelpers.output.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorCoreGenerate.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Employee\AddEmployee.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Getall.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Employee\GetByEmployeeId.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Remove.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorTargetAssemblyInfo.cache
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.RazorTargetAssemblyInfo.cs
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.Views.pdb
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.csproj.CopyComplete
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.dll
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.pdb
+D:\CFPBatch\MVC\Employee_Payroll_MVC_Project\EmployeePayRoll\obj\Debug\netcoreapp3.1\EmployeePayRoll.genruntimeconfig.cache
