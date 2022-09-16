@@ -4,11 +4,22 @@
     ViewData["Title"] = "Getall";
 }
  <div id="view-all">
-<h1>Employee Information</h1>
+     <header class="header-content">
+        <div class="logo-content">
+            <img src="../logo (1).png" alt="">
+            <div>
+                <span class="emp-text">EMPLOYEE</span></br>
+                <span class="emp-text emp-payroll">PAYROLL</span>
+            </div>
+        </div>
+       
+    </header>
+     <h3 class ="text-center">List Of Employee's</h3>
 
 <p>
-    <a asp-action="AddEmployee">AddEmployee</a>
+    <a asp-action="AddEmployee" class="btn btn-success text-white">AddEmployee</a>
 </p>
+<div  class="form-content">
 <table class="table">
     <thead>
         <tr>
@@ -33,6 +44,7 @@
             <th></th>
         </tr>
     </thead>
+    
     <tbody>
 @foreach (var item in Model) {
         <tr>
@@ -63,4 +75,5 @@
 }
     </tbody>
 </table>
+</div>
 </div>

@@ -24,10 +24,38 @@ a {
   border-color: #1861ac;
 }
 
+.form-content {
+    min-height: calc(100%-80px);
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px solid green;
+}
+
+
+.header-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    border: 0px solid green;
+}
+.emp-text {
+    font: normal normal bold 20px/25px Montserrat;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 0px;
+    color: #82a70c;
+    text-transform: capitalize;
+}
+.emp-payroll {
+    color: #42515f;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 @media (min-width: 768px) {
   html {

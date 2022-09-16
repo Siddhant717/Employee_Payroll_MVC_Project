@@ -4,11 +4,22 @@
     ViewData["Title"] = "GetByEmployeeId";
 }
 
-<h1>GetByEmployeeId</h1>
+
 
 <div>
-    <h4>EmployeeDetails</h4>
+     <header class="header-content">
+        <div class="logo-content">
+            <img src="../logo (1).png" alt="">
+            <div>
+                <span class="emp-text">EMPLOYEE</span></br>
+                <span class="emp-text emp-payroll">PAYROLL</span>
+            </div>
+        </div>
+       
+    </header>
+    <h4 class ="text-center">Employee Details</h4>
     <hr />
+     <div class="form-content">
     <dl class="row">
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.FirstName)
@@ -47,6 +58,7 @@
             @Html.DisplayFor(model => model.JoinedDate)
         </dd>
     </dl>
+    </div>
 </div>
 <div>
     <a asp-action="Edit" asp-route-id="@Model.EmployeeId">Edit</a> |
